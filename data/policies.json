@@ -1,0 +1,7 @@
+[
+  {
+    "policy": "current",
+    "amount_threshold": 1700,
+    "daily_budget": 5
+  }
+]

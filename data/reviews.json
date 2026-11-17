@@ -1,0 +1,86 @@
+[
+  {
+    "claim": "Q24",
+    "reviewed_at": "2026-10-20",
+    "outcome": "needs_correction",
+    "selection": "large_amount",
+    "selection_probability": null
+  },
+  {
+    "claim": "Q25",
+    "reviewed_at": "2026-10-20",
+    "outcome": "supported",
+    "selection": "large_amount",
+    "selection_probability": null
+  },
+  {
+    "claim": "Q26",
+    "reviewed_at": "2026-10-20",
+    "outcome": "supported",
+    "selection": "large_amount",
+    "selection_probability": null
+  },
+  {
+    "claim": "Q27",
+    "reviewed_at": "2026-10-20",
+    "outcome": "needs_correction",
+    "selection": "large_amount",
+    "selection_probability": null
+  },
+  {
+    "claim": "Q28",
+    "reviewed_at": "2026-10-20",
+    "outcome": "supported",
+    "selection": "large_amount",
+    "selection_probability": null
+  },
+  {
+    "claim": "Q29",
+    "reviewed_at": "2026-10-20",
+    "outcome": "supported",
+    "selection": "large_amount",
+    "selection_probability": null
+  },
+  {
+    "claim": "Q30",
+    "reviewed_at": "2026-10-20",
+    "outcome": "needs_correction",
+    "selection": "large_amount",
+    "selection_probability": null
+  },
+  {
+    "claim": "Q31",
+    "reviewed_at": "2026-10-20",
+    "outcome": "supported",
+    "selection": "large_amount",
+    "selection_probability": null
+  },
+  {
+    "claim": "Q32",
+    "reviewed_at": "2026-10-20",
+    "outcome": "supported",
+    "selection": "large_amount",
+    "selection_probability": null
+  },
+  {
+    "claim": "Q33",
+    "reviewed_at": "2026-10-20",
+    "outcome": "needs_correction",
+    "selection": "large_amount",
+    "selection_probability": null
+  },
+  {
+    "claim": "Q34",
+    "reviewed_at": "2026-10-20",
+    "outcome": "supported",
+    "selection": "large_amount",
+    "selection_probability": null
+  },
+  {
+    "claim": "Q35",
+    "reviewed_at": "2026-10-20",
+    "outcome": "supported",
+    "selection": "large_amount",
+    "selection_probability": null
+  }
+]

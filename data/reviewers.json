@@ -1,0 +1,14 @@
+[
+  {
+    "reviewer": "auditor-a",
+    "conflicts": [
+      "S0"
+    ],
+    "capacity": 3
+  },
+  {
+    "reviewer": "auditor-b",
+    "conflicts": [],
+    "capacity": 2
+  }
+]

@@ -1,0 +1,2648 @@
+[
+  {
+    "record": "P0-0",
+    "claim": "Q00",
+    "person": "L0",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P0-1",
+    "claim": "Q00",
+    "person": "L1",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P0-2",
+    "claim": "Q00",
+    "person": "L2",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P0-3",
+    "claim": "Q00",
+    "person": "L3",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P0-4",
+    "claim": "Q00",
+    "person": "L4",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P0-5",
+    "claim": "Q00",
+    "person": "L5",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P0-6",
+    "claim": "Q00",
+    "person": "L6",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P0-7",
+    "claim": "Q00",
+    "person": "L7",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P1-0",
+    "claim": "Q01",
+    "person": "L3",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P1-1",
+    "claim": "Q01",
+    "person": "L4",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P1-2",
+    "claim": "Q01",
+    "person": "L5",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P1-3",
+    "claim": "Q01",
+    "person": "L6",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P1-4",
+    "claim": "Q01",
+    "person": "L7",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P1-5",
+    "claim": "Q01",
+    "person": "L8",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P1-6",
+    "claim": "Q01",
+    "person": "L9",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P1-7",
+    "claim": "Q01",
+    "person": "L10",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P1-8",
+    "claim": "Q01",
+    "person": "L11",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P2-0",
+    "claim": "Q02",
+    "person": "L6",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P2-1",
+    "claim": "Q02",
+    "person": "L7",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P2-2",
+    "claim": "Q02",
+    "person": "L8",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P2-3",
+    "claim": "Q02",
+    "person": "L9",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P2-4",
+    "claim": "Q02",
+    "person": "L10",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P2-5",
+    "claim": "Q02",
+    "person": "L11",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P2-6",
+    "claim": "Q02",
+    "person": "L12",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P2-7",
+    "claim": "Q02",
+    "person": "L13",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P2-8",
+    "claim": "Q02",
+    "person": "L14",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P2-9",
+    "claim": "Q02",
+    "person": "L15",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P3-0",
+    "claim": "Q03",
+    "person": "L9",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P3-1",
+    "claim": "Q03",
+    "person": "L10",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P3-2",
+    "claim": "Q03",
+    "person": "L11",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P3-3",
+    "claim": "Q03",
+    "person": "L12",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P3-4",
+    "claim": "Q03",
+    "person": "L13",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P3-5",
+    "claim": "Q03",
+    "person": "L14",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P3-6",
+    "claim": "Q03",
+    "person": "L15",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P3-7",
+    "claim": "Q03",
+    "person": "L16",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P3-8",
+    "claim": "Q03",
+    "person": "L17",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P3-9",
+    "claim": "Q03",
+    "person": "L18",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P3-10",
+    "claim": "Q03",
+    "person": "L19",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P4-0",
+    "claim": "Q04",
+    "person": "L12",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P4-1",
+    "claim": "Q04",
+    "person": "L13",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P4-2",
+    "claim": "Q04",
+    "person": "L14",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P4-3",
+    "claim": "Q04",
+    "person": "L15",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P4-4",
+    "claim": "Q04",
+    "person": "L16",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P4-5",
+    "claim": "Q04",
+    "person": "L17",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P4-6",
+    "claim": "Q04",
+    "person": "L18",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P4-7",
+    "claim": "Q04",
+    "person": "L19",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P4-8",
+    "claim": "Q04",
+    "person": "L20",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P4-9",
+    "claim": "Q04",
+    "person": "L21",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P4-10",
+    "claim": "Q04",
+    "person": "L22",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P4-11",
+    "claim": "Q04",
+    "person": "L23",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P5-0",
+    "claim": "Q05",
+    "person": "L15",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P5-1",
+    "claim": "Q05",
+    "person": "L16",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P5-2",
+    "claim": "Q05",
+    "person": "L17",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P5-3",
+    "claim": "Q05",
+    "person": "L18",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P5-4",
+    "claim": "Q05",
+    "person": "L19",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P5-5",
+    "claim": "Q05",
+    "person": "L20",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P5-6",
+    "claim": "Q05",
+    "person": "L21",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P5-7",
+    "claim": "Q05",
+    "person": "L22",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P5-8",
+    "claim": "Q05",
+    "person": "L23",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P5-9",
+    "claim": "Q05",
+    "person": "L24",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P5-10",
+    "claim": "Q05",
+    "person": "L25",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P5-11",
+    "claim": "Q05",
+    "person": "L26",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P5-12",
+    "claim": "Q05",
+    "person": "L27",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P6-0",
+    "claim": "Q06",
+    "person": "L18",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P6-1",
+    "claim": "Q06",
+    "person": "L19",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P6-2",
+    "claim": "Q06",
+    "person": "L20",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P6-3",
+    "claim": "Q06",
+    "person": "L21",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P6-4",
+    "claim": "Q06",
+    "person": "L22",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P6-5",
+    "claim": "Q06",
+    "person": "L23",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P6-6",
+    "claim": "Q06",
+    "person": "L24",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P6-7",
+    "claim": "Q06",
+    "person": "L25",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P7-0",
+    "claim": "Q07",
+    "person": "L21",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P7-1",
+    "claim": "Q07",
+    "person": "L22",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P7-2",
+    "claim": "Q07",
+    "person": "L23",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P7-3",
+    "claim": "Q07",
+    "person": "L24",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P7-4",
+    "claim": "Q07",
+    "person": "L25",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P7-5",
+    "claim": "Q07",
+    "person": "L26",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P7-6",
+    "claim": "Q07",
+    "person": "L27",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P7-7",
+    "claim": "Q07",
+    "person": "L28",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P7-8",
+    "claim": "Q07",
+    "person": "L29",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P8-0",
+    "claim": "Q08",
+    "person": "L24",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P8-1",
+    "claim": "Q08",
+    "person": "L25",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P8-2",
+    "claim": "Q08",
+    "person": "L26",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P8-3",
+    "claim": "Q08",
+    "person": "L27",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P8-4",
+    "claim": "Q08",
+    "person": "L28",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P8-5",
+    "claim": "Q08",
+    "person": "L29",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P8-6",
+    "claim": "Q08",
+    "person": "L30",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P8-7",
+    "claim": "Q08",
+    "person": "L31",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P8-8",
+    "claim": "Q08",
+    "person": "L32",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P8-9",
+    "claim": "Q08",
+    "person": "L33",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P9-0",
+    "claim": "Q09",
+    "person": "L27",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P9-1",
+    "claim": "Q09",
+    "person": "L28",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P9-2",
+    "claim": "Q09",
+    "person": "L29",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P9-3",
+    "claim": "Q09",
+    "person": "L30",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P9-4",
+    "claim": "Q09",
+    "person": "L31",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P9-5",
+    "claim": "Q09",
+    "person": "L32",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P9-6",
+    "claim": "Q09",
+    "person": "L33",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P9-7",
+    "claim": "Q09",
+    "person": "L34",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P9-8",
+    "claim": "Q09",
+    "person": "L35",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P9-9",
+    "claim": "Q09",
+    "person": "L36",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P9-10",
+    "claim": "Q09",
+    "person": "L37",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P10-0",
+    "claim": "Q10",
+    "person": "L30",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P10-1",
+    "claim": "Q10",
+    "person": "L31",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P10-2",
+    "claim": "Q10",
+    "person": "L32",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P10-3",
+    "claim": "Q10",
+    "person": "L33",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P10-4",
+    "claim": "Q10",
+    "person": "L34",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P10-5",
+    "claim": "Q10",
+    "person": "L35",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P10-6",
+    "claim": "Q10",
+    "person": "L36",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P10-7",
+    "claim": "Q10",
+    "person": "L37",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P10-8",
+    "claim": "Q10",
+    "person": "L38",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P10-9",
+    "claim": "Q10",
+    "person": "L39",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P10-10",
+    "claim": "Q10",
+    "person": "L40",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P10-11",
+    "claim": "Q10",
+    "person": "L41",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P11-0",
+    "claim": "Q11",
+    "person": "L33",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P11-1",
+    "claim": "Q11",
+    "person": "L34",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P11-2",
+    "claim": "Q11",
+    "person": "L35",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P11-3",
+    "claim": "Q11",
+    "person": "L36",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P11-4",
+    "claim": "Q11",
+    "person": "L37",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P11-5",
+    "claim": "Q11",
+    "person": "L38",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P11-6",
+    "claim": "Q11",
+    "person": "L39",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P11-7",
+    "claim": "Q11",
+    "person": "L40",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P11-8",
+    "claim": "Q11",
+    "person": "L41",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P11-9",
+    "claim": "Q11",
+    "person": "L42",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P11-10",
+    "claim": "Q11",
+    "person": "L43",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P11-11",
+    "claim": "Q11",
+    "person": "L44",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P11-12",
+    "claim": "Q11",
+    "person": "L45",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P12-0",
+    "claim": "Q12",
+    "person": "L36",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P12-1",
+    "claim": "Q12",
+    "person": "L37",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P12-2",
+    "claim": "Q12",
+    "person": "L38",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P12-3",
+    "claim": "Q12",
+    "person": "L39",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P12-4",
+    "claim": "Q12",
+    "person": "L40",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P12-5",
+    "claim": "Q12",
+    "person": "L41",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P12-6",
+    "claim": "Q12",
+    "person": "L42",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P12-7",
+    "claim": "Q12",
+    "person": "L43",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P13-0",
+    "claim": "Q13",
+    "person": "L39",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P13-1",
+    "claim": "Q13",
+    "person": "L40",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P13-2",
+    "claim": "Q13",
+    "person": "L41",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P13-3",
+    "claim": "Q13",
+    "person": "L42",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P13-4",
+    "claim": "Q13",
+    "person": "L43",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P13-5",
+    "claim": "Q13",
+    "person": "L44",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P13-6",
+    "claim": "Q13",
+    "person": "L45",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P13-7",
+    "claim": "Q13",
+    "person": "L46",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P13-8",
+    "claim": "Q13",
+    "person": "L47",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P14-0",
+    "claim": "Q14",
+    "person": "L42",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P14-1",
+    "claim": "Q14",
+    "person": "L43",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P14-2",
+    "claim": "Q14",
+    "person": "L44",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P14-3",
+    "claim": "Q14",
+    "person": "L45",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P14-4",
+    "claim": "Q14",
+    "person": "L46",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P14-5",
+    "claim": "Q14",
+    "person": "L47",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P14-6",
+    "claim": "Q14",
+    "person": "L48",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P14-7",
+    "claim": "Q14",
+    "person": "L49",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P14-8",
+    "claim": "Q14",
+    "person": "L50",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P14-9",
+    "claim": "Q14",
+    "person": "L51",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P15-0",
+    "claim": "Q15",
+    "person": "L45",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P15-1",
+    "claim": "Q15",
+    "person": "L46",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P15-2",
+    "claim": "Q15",
+    "person": "L47",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P15-3",
+    "claim": "Q15",
+    "person": "L48",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P15-4",
+    "claim": "Q15",
+    "person": "L49",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P15-5",
+    "claim": "Q15",
+    "person": "L50",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P15-6",
+    "claim": "Q15",
+    "person": "L51",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P15-7",
+    "claim": "Q15",
+    "person": "L52",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P15-8",
+    "claim": "Q15",
+    "person": "L53",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P15-9",
+    "claim": "Q15",
+    "person": "L54",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P15-10",
+    "claim": "Q15",
+    "person": "L55",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P16-0",
+    "claim": "Q16",
+    "person": "L48",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P16-1",
+    "claim": "Q16",
+    "person": "L49",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P16-2",
+    "claim": "Q16",
+    "person": "L50",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P16-3",
+    "claim": "Q16",
+    "person": "L51",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P16-4",
+    "claim": "Q16",
+    "person": "L52",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P16-5",
+    "claim": "Q16",
+    "person": "L53",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P16-6",
+    "claim": "Q16",
+    "person": "L54",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P16-7",
+    "claim": "Q16",
+    "person": "L55",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P16-8",
+    "claim": "Q16",
+    "person": "L56",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P16-9",
+    "claim": "Q16",
+    "person": "L57",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P16-10",
+    "claim": "Q16",
+    "person": "L58",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P16-11",
+    "claim": "Q16",
+    "person": "L59",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P17-0",
+    "claim": "Q17",
+    "person": "L51",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P17-1",
+    "claim": "Q17",
+    "person": "L52",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P17-2",
+    "claim": "Q17",
+    "person": "L53",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P17-3",
+    "claim": "Q17",
+    "person": "L54",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P17-4",
+    "claim": "Q17",
+    "person": "L55",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P17-5",
+    "claim": "Q17",
+    "person": "L56",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P17-6",
+    "claim": "Q17",
+    "person": "L57",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P17-7",
+    "claim": "Q17",
+    "person": "L58",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P17-8",
+    "claim": "Q17",
+    "person": "L59",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P17-9",
+    "claim": "Q17",
+    "person": "L60",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P17-10",
+    "claim": "Q17",
+    "person": "L61",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P17-11",
+    "claim": "Q17",
+    "person": "L62",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P17-12",
+    "claim": "Q17",
+    "person": "L63",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P18-0",
+    "claim": "Q18",
+    "person": "L54",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P18-1",
+    "claim": "Q18",
+    "person": "L55",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P18-2",
+    "claim": "Q18",
+    "person": "L56",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P18-3",
+    "claim": "Q18",
+    "person": "L57",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P18-4",
+    "claim": "Q18",
+    "person": "L58",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P18-5",
+    "claim": "Q18",
+    "person": "L59",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P18-6",
+    "claim": "Q18",
+    "person": "L60",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P18-7",
+    "claim": "Q18",
+    "person": "L61",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P19-0",
+    "claim": "Q19",
+    "person": "L57",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P19-1",
+    "claim": "Q19",
+    "person": "L58",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P19-2",
+    "claim": "Q19",
+    "person": "L59",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P19-3",
+    "claim": "Q19",
+    "person": "L60",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P19-4",
+    "claim": "Q19",
+    "person": "L61",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P19-5",
+    "claim": "Q19",
+    "person": "L62",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P19-6",
+    "claim": "Q19",
+    "person": "L63",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P19-7",
+    "claim": "Q19",
+    "person": "L0",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P19-8",
+    "claim": "Q19",
+    "person": "L1",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P20-0",
+    "claim": "Q20",
+    "person": "L60",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P20-1",
+    "claim": "Q20",
+    "person": "L61",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P20-2",
+    "claim": "Q20",
+    "person": "L62",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P20-3",
+    "claim": "Q20",
+    "person": "L63",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P20-4",
+    "claim": "Q20",
+    "person": "L0",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P20-5",
+    "claim": "Q20",
+    "person": "L1",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P20-6",
+    "claim": "Q20",
+    "person": "L2",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P20-7",
+    "claim": "Q20",
+    "person": "L3",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P20-8",
+    "claim": "Q20",
+    "person": "L4",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P20-9",
+    "claim": "Q20",
+    "person": "L5",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P21-0",
+    "claim": "Q21",
+    "person": "L63",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P21-1",
+    "claim": "Q21",
+    "person": "L0",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P21-2",
+    "claim": "Q21",
+    "person": "L1",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P21-3",
+    "claim": "Q21",
+    "person": "L2",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P21-4",
+    "claim": "Q21",
+    "person": "L3",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P21-5",
+    "claim": "Q21",
+    "person": "L4",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P21-6",
+    "claim": "Q21",
+    "person": "L5",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P21-7",
+    "claim": "Q21",
+    "person": "L6",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P21-8",
+    "claim": "Q21",
+    "person": "L7",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P21-9",
+    "claim": "Q21",
+    "person": "L8",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P21-10",
+    "claim": "Q21",
+    "person": "L9",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P22-0",
+    "claim": "Q22",
+    "person": "L2",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P22-1",
+    "claim": "Q22",
+    "person": "L3",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P22-2",
+    "claim": "Q22",
+    "person": "L4",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P22-3",
+    "claim": "Q22",
+    "person": "L5",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P22-4",
+    "claim": "Q22",
+    "person": "L6",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P22-5",
+    "claim": "Q22",
+    "person": "L7",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P22-6",
+    "claim": "Q22",
+    "person": "L8",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P22-7",
+    "claim": "Q22",
+    "person": "L9",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P22-8",
+    "claim": "Q22",
+    "person": "L10",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P22-9",
+    "claim": "Q22",
+    "person": "L11",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P22-10",
+    "claim": "Q22",
+    "person": "L12",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P22-11",
+    "claim": "Q22",
+    "person": "L13",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P23-0",
+    "claim": "Q23",
+    "person": "L5",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P23-1",
+    "claim": "Q23",
+    "person": "L6",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P23-2",
+    "claim": "Q23",
+    "person": "L7",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P23-3",
+    "claim": "Q23",
+    "person": "L8",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P23-4",
+    "claim": "Q23",
+    "person": "L9",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P23-5",
+    "claim": "Q23",
+    "person": "L10",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P23-6",
+    "claim": "Q23",
+    "person": "L11",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P23-7",
+    "claim": "Q23",
+    "person": "L12",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P23-8",
+    "claim": "Q23",
+    "person": "L13",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P23-9",
+    "claim": "Q23",
+    "person": "L14",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P23-10",
+    "claim": "Q23",
+    "person": "L15",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P23-11",
+    "claim": "Q23",
+    "person": "L16",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P23-12",
+    "claim": "Q23",
+    "person": "L17",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P24-0",
+    "claim": "Q24",
+    "person": "L8",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P24-1",
+    "claim": "Q24",
+    "person": "L9",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P24-2",
+    "claim": "Q24",
+    "person": "L10",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P24-3",
+    "claim": "Q24",
+    "person": "L11",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P24-4",
+    "claim": "Q24",
+    "person": "L12",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P24-5",
+    "claim": "Q24",
+    "person": "L13",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P24-6",
+    "claim": "Q24",
+    "person": "L14",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P24-7",
+    "claim": "Q24",
+    "person": "L15",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P25-0",
+    "claim": "Q25",
+    "person": "L11",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P25-1",
+    "claim": "Q25",
+    "person": "L12",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P25-2",
+    "claim": "Q25",
+    "person": "L13",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P25-3",
+    "claim": "Q25",
+    "person": "L14",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P25-4",
+    "claim": "Q25",
+    "person": "L15",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P25-5",
+    "claim": "Q25",
+    "person": "L16",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P25-6",
+    "claim": "Q25",
+    "person": "L17",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P25-7",
+    "claim": "Q25",
+    "person": "L18",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P25-8",
+    "claim": "Q25",
+    "person": "L19",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P26-0",
+    "claim": "Q26",
+    "person": "L14",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P26-1",
+    "claim": "Q26",
+    "person": "L15",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P26-2",
+    "claim": "Q26",
+    "person": "L16",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P26-3",
+    "claim": "Q26",
+    "person": "L17",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P26-4",
+    "claim": "Q26",
+    "person": "L18",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P26-5",
+    "claim": "Q26",
+    "person": "L19",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P26-6",
+    "claim": "Q26",
+    "person": "L20",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P26-7",
+    "claim": "Q26",
+    "person": "L21",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P26-8",
+    "claim": "Q26",
+    "person": "L22",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P26-9",
+    "claim": "Q26",
+    "person": "L23",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P27-0",
+    "claim": "Q27",
+    "person": "L17",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P27-1",
+    "claim": "Q27",
+    "person": "L18",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P27-2",
+    "claim": "Q27",
+    "person": "L19",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P27-3",
+    "claim": "Q27",
+    "person": "L20",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P27-4",
+    "claim": "Q27",
+    "person": "L21",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P27-5",
+    "claim": "Q27",
+    "person": "L22",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P27-6",
+    "claim": "Q27",
+    "person": "L23",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P27-7",
+    "claim": "Q27",
+    "person": "L24",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P27-8",
+    "claim": "Q27",
+    "person": "L25",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P27-9",
+    "claim": "Q27",
+    "person": "L26",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P27-10",
+    "claim": "Q27",
+    "person": "L27",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P28-0",
+    "claim": "Q28",
+    "person": "L20",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P28-1",
+    "claim": "Q28",
+    "person": "L21",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P28-2",
+    "claim": "Q28",
+    "person": "L22",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P28-3",
+    "claim": "Q28",
+    "person": "L23",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P28-4",
+    "claim": "Q28",
+    "person": "L24",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P28-5",
+    "claim": "Q28",
+    "person": "L25",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P28-6",
+    "claim": "Q28",
+    "person": "L26",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P28-7",
+    "claim": "Q28",
+    "person": "L27",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P28-8",
+    "claim": "Q28",
+    "person": "L28",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P28-9",
+    "claim": "Q28",
+    "person": "L29",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P28-10",
+    "claim": "Q28",
+    "person": "L30",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P28-11",
+    "claim": "Q28",
+    "person": "L31",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P29-0",
+    "claim": "Q29",
+    "person": "L23",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P29-1",
+    "claim": "Q29",
+    "person": "L24",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P29-2",
+    "claim": "Q29",
+    "person": "L25",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P29-3",
+    "claim": "Q29",
+    "person": "L26",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P29-4",
+    "claim": "Q29",
+    "person": "L27",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P29-5",
+    "claim": "Q29",
+    "person": "L28",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P29-6",
+    "claim": "Q29",
+    "person": "L29",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P29-7",
+    "claim": "Q29",
+    "person": "L30",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P29-8",
+    "claim": "Q29",
+    "person": "L31",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P29-9",
+    "claim": "Q29",
+    "person": "L32",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P29-10",
+    "claim": "Q29",
+    "person": "L33",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P29-11",
+    "claim": "Q29",
+    "person": "L34",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P29-12",
+    "claim": "Q29",
+    "person": "L35",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P30-0",
+    "claim": "Q30",
+    "person": "L26",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P30-1",
+    "claim": "Q30",
+    "person": "L27",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P30-2",
+    "claim": "Q30",
+    "person": "L28",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P30-3",
+    "claim": "Q30",
+    "person": "L29",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P30-4",
+    "claim": "Q30",
+    "person": "L30",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P30-5",
+    "claim": "Q30",
+    "person": "L31",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P30-6",
+    "claim": "Q30",
+    "person": "L32",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P30-7",
+    "claim": "Q30",
+    "person": "L33",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P31-0",
+    "claim": "Q31",
+    "person": "L29",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P31-1",
+    "claim": "Q31",
+    "person": "L30",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P31-2",
+    "claim": "Q31",
+    "person": "L31",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P31-3",
+    "claim": "Q31",
+    "person": "L32",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P31-4",
+    "claim": "Q31",
+    "person": "L33",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P31-5",
+    "claim": "Q31",
+    "person": "L34",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P31-6",
+    "claim": "Q31",
+    "person": "L35",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P31-7",
+    "claim": "Q31",
+    "person": "L36",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P31-8",
+    "claim": "Q31",
+    "person": "L37",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P32-0",
+    "claim": "Q32",
+    "person": "L32",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P32-1",
+    "claim": "Q32",
+    "person": "L33",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P32-2",
+    "claim": "Q32",
+    "person": "L34",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P32-3",
+    "claim": "Q32",
+    "person": "L35",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P32-4",
+    "claim": "Q32",
+    "person": "L36",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P32-5",
+    "claim": "Q32",
+    "person": "L37",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P32-6",
+    "claim": "Q32",
+    "person": "L38",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P32-7",
+    "claim": "Q32",
+    "person": "L39",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P32-8",
+    "claim": "Q32",
+    "person": "L40",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P32-9",
+    "claim": "Q32",
+    "person": "L41",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P33-0",
+    "claim": "Q33",
+    "person": "L35",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P33-1",
+    "claim": "Q33",
+    "person": "L36",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P33-2",
+    "claim": "Q33",
+    "person": "L37",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P33-3",
+    "claim": "Q33",
+    "person": "L38",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P33-4",
+    "claim": "Q33",
+    "person": "L39",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P33-5",
+    "claim": "Q33",
+    "person": "L40",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P33-6",
+    "claim": "Q33",
+    "person": "L41",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P33-7",
+    "claim": "Q33",
+    "person": "L42",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P33-8",
+    "claim": "Q33",
+    "person": "L43",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P33-9",
+    "claim": "Q33",
+    "person": "L44",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P33-10",
+    "claim": "Q33",
+    "person": "L45",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P34-0",
+    "claim": "Q34",
+    "person": "L38",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P34-1",
+    "claim": "Q34",
+    "person": "L39",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P34-2",
+    "claim": "Q34",
+    "person": "L40",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P34-3",
+    "claim": "Q34",
+    "person": "L41",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P34-4",
+    "claim": "Q34",
+    "person": "L42",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P34-5",
+    "claim": "Q34",
+    "person": "L43",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P34-6",
+    "claim": "Q34",
+    "person": "L44",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P34-7",
+    "claim": "Q34",
+    "person": "L45",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P34-8",
+    "claim": "Q34",
+    "person": "L46",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P34-9",
+    "claim": "Q34",
+    "person": "L47",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P34-10",
+    "claim": "Q34",
+    "person": "L48",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P34-11",
+    "claim": "Q34",
+    "person": "L49",
+    "minutes": 60,
+    "source": "rollcall"
+  },
+  {
+    "record": "P35-0",
+    "claim": "Q35",
+    "person": "L41",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P35-1",
+    "claim": "Q35",
+    "person": "L42",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P35-2",
+    "claim": "Q35",
+    "person": "L43",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P35-3",
+    "claim": "Q35",
+    "person": "L44",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P35-4",
+    "claim": "Q35",
+    "person": "L45",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P35-5",
+    "claim": "Q35",
+    "person": "L46",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P35-6",
+    "claim": "Q35",
+    "person": "L47",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P35-7",
+    "claim": "Q35",
+    "person": "L48",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P35-8",
+    "claim": "Q35",
+    "person": "L49",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P35-9",
+    "claim": "Q35",
+    "person": "L50",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P35-10",
+    "claim": "Q35",
+    "person": "L51",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P35-11",
+    "claim": "Q35",
+    "person": "L52",
+    "minutes": 120,
+    "source": "rollcall"
+  },
+  {
+    "record": "P35-12",
+    "claim": "Q35",
+    "person": "L53",
+    "minutes": 120,
+    "source": "rollcall"
+  }
+]

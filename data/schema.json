@@ -1,0 +1,84 @@
+{
+  "claims": {
+    "key": [
+      "claim"
+    ],
+    "required": [
+      "claim",
+      "school",
+      "session",
+      "teacher",
+      "agent",
+      "venue",
+      "amount",
+      "attachments"
+    ],
+    "foreign": {}
+  },
+  "presence": {
+    "key": [
+      "record"
+    ],
+    "required": [
+      "record",
+      "claim",
+      "person",
+      "minutes",
+      "source"
+    ],
+    "foreign": {
+      "claim": [
+        "claims",
+        "claim"
+      ]
+    }
+  },
+  "reviews": {
+    "key": [
+      "claim"
+    ],
+    "required": [
+      "claim",
+      "reviewed_at",
+      "outcome",
+      "selection"
+    ],
+    "foreign": {
+      "claim": [
+        "claims",
+        "claim"
+      ]
+    }
+  },
+  "policies": {
+    "key": [
+      "policy"
+    ],
+    "required": [
+      "policy",
+      "amount_threshold",
+      "daily_budget"
+    ],
+    "foreign": {}
+  },
+  "permissions": {
+    "key": [
+      "agent"
+    ],
+    "required": [
+      "agent",
+      "reason",
+      "valid_from"
+    ],
+    "foreign": {}
+  },
+  "reviewers": {
+    "key": [
+      "reviewer"
+    ],
+    "required": [
+      "reviewer"
+    ],
+    "foreign": {}
+  }
+}
