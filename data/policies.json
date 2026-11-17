@@ -2,6 +2,8 @@
   {
     "policy": "current",
     "amount_threshold": 1700,
-    "daily_budget": 5
+    "daily_budget": 5,
+    "max_group_share": 0.4,
+    "max_group_size": 8
   }
 ]
